@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "name": "milk",
+        "shop" : "Maxima"
+    },
+    {
+        "id": 1,
+        "name": "Bread",
+        "shop" : "Rimi"
+    }, 
+    {
+        "id": 2,
+        "name": "Potatoes",
+        "shop" : "Selver"
+    }
+]

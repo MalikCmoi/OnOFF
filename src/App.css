@@ -1,0 +1,88 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+body {
+  font-family: "Work Sans";
+}
+
+.Body {
+  /* Shopping card */
+  box-sizing: border-box;
+  position: absolute;
+  width: 780px;
+  left: 50px;
+  top: 50px;
+  background: #FFFFFF;
+  border: 2px solid #ECEDEE;
+  box-shadow: 0px 4px 20px #ECEDEE;
+  border-radius: 10px;
+}
+
+h1 {
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #273348;
+}
+
+#name {
+  width: 260px;
+  height: 48px;
+  margin-left: 40px;
+  margin-right: 10px;
+  padding: 0;
+  padding-left: 20px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+#shop {
+  min-width: 260px;
+  min-height: 48px;
+  padding-left: 20px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+.idle {
+  border: 2px solid #ECEDEE;
+}
+
+.error {
+  border: 2px solid red;
+}
+
+#btn-add {
+  margin-left: 10px;
+  width: 75px;
+  height: 44px;
+  color: #fff;
+  background: #2DD08C;
+  border-color: transparent;
+  border-radius: 40px;
+}
+#btn-add:hover {
+  background: #35c086;
+}
+
+table {
+  min-width: 780px;
+  min-height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+table tr:nth-child(2n-1) {
+  background: #f1f1f1;
+}
+table td {
+  margin-left: 60px;
+  padding-left: 60px;
+  height: 40px;
+}
+
+a {
+  color: #F54436;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
