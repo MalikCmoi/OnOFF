@@ -1,1 +1,2 @@
-echo "# OnOFF" >> README.md
+to install : npm i
+to start : npm start
